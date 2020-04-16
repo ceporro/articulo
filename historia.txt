@@ -1,7 +1,3 @@
-hola buenos dias
+hola buenos tardes
 
-jajajaja
-
-estrenando el expert
-
-Mañana seguiremos con git
+mi nombre es ceporro y tengo 22 años
