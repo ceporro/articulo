@@ -1,2 +1,5 @@
-# articulo
+# Artículo
 Un articulo increible para el curso de Platzi
+*Juejuejue*
+
+Aquí practicando un poco
